@@ -8,7 +8,7 @@
 <p>Emir Barucija<a href="https://www.linkedin.com/in/emirbarucija/"> Linkedin </a>Profile</p>
 <p>Emir Barucija<a href="https://www.instagram.com/emirbarucija"> Instagram </a>Profile</p>
 
-<img src="images/barucman_logo.svg" alt="" width="70px">
+<img src="images/barucman_logo.svg" alt="" width="170px">
 
 <!--
 **barucija/barucija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
