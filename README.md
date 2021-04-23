@@ -1,12 +1,12 @@
 
-<h2>Emir Baručija</h2>
+<h1>Emir Baručija</h1>
 <h2>Graphic designer and software engineering student</h2>
 <p>A twenty-year-old software engineer in process. Determined, organized and great team player. Self-taught graphic designer and photo editor. Open to any cooperation, suggestions or criticism.</p>
 
-<h3>Social media</h3>
-<a href="https://www.emirbarucija.com">Portfolio</a><br>
-<a href="https://www.linkedin.com/in/emirbarucija/">Linkedin</a><br>
-<a href="https://www.instagram.com/emirbarucija">Instagram</a>
+<h2>Social media</h2>
+<p>Emir Barucija<a href="https://www.emirbarucija.com">Portfolio</a><br>
+<p>Emir Barucija<a href="https://www.linkedin.com/in/emirbarucija/">Linkedin</a>Profile</p><br>
+<p>Emir Barucija<a href="https://www.instagram.com/emirbarucija">Instagram</a>Profile</p>
 
 
 <!--
