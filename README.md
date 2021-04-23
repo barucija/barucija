@@ -3,10 +3,10 @@
 <h3>Graphic designer and software engineering student</h3>
 <p>A twenty-year-old software engineer in process. Determined, organized and great team player. Self-taught graphic designer and photo editor. Open to any cooperation, suggestions or criticism.</p>
 
-<h5>Social media</h5>
-<a href="https://www.emirbarucija.com">Portfolio</a>
-<a href="https://www.linkedin.com/in/emirbarucija/">Linkedin</a>
-<a href="https://www.instagram.com/emirbarucija"></a>
+<h3>Social media</h3>
+<a href="https://www.emirbarucija.com">Portfolio</a><br>
+<a href="https://www.linkedin.com/in/emirbarucija/">Linkedin</a><br>
+<a href="https://www.instagram.com/emirbarucija">Instagram</a>
 
 
 <!--
