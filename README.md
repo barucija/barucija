@@ -8,6 +8,8 @@
 <p>Emir Barucija<a href="https://www.linkedin.com/in/emirbarucija/"> Linkedin </a>Profile</p>
 <p>Emir Barucija<a href="https://www.instagram.com/emirbarucija"> Instagram </a>Profile</p>
 
+<br>
+
 <img src="images/barucman_logo.svg" alt="" width="190px">
 
 <!--
