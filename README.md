@@ -1,6 +1,8 @@
 
 <h1>Emir Baručija</h1>
-<h2>Graphic designer and software engineering student</h2>
+<h2>Frontend Developer at Commerce Care d.o.o. - DACH</h2>
+<h2>Software engineering student</h2>
+<h2>Bosnia & Herzegovina Futures Foundation scholar</h2>
 <p>A twenty-year-old software engineer in process. Determined, organized and great team player. Self-taught graphic designer and photo editor. Open to any cooperation, suggestions or criticism.</p>
 
 <h2>Social media</h2>
