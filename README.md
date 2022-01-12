@@ -5,9 +5,9 @@
 <h3>Software engineering student</h3>
 <h3>Bosnia & Herzegovina Futures Foundation scholar</h3>
 </div>
-<p>21 years old software engineering student.</p>
-<p>Determined, organized and great team player.</p>
-<p>Open to any cooperation, suggestions or criticism.</p>
+<p>21 years old software engineering student.
+<br>Determined, organized and great team player.
+<br>Open to any cooperation, suggestions or criticism.</p>
 
 <h2>Social media</h2>
 <p>Emir Barucija<a href="https://www.emirbarucija.com"> Portfolio</a>
