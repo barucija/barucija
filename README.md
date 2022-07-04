@@ -1,7 +1,6 @@
 
 <h1>Emir Baručija</h1>
 <div>
-<h3>Frontend Developer at Commerce Care d.o.o. - DACH</h3>
 <h3>Software engineering student</h3>
 <h3>Bosnia & Herzegovina Futures Foundation scholar</h3>
 </div>
