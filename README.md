@@ -4,7 +4,7 @@
 <h3>Software engineering student</h3>
 <h3>Bosnia & Herzegovina Futures Foundation scholar</h3>
 </div>
-<p>21 years old software engineering student.
+<p>22 years old software engineering student.
 <br>Determined, organized and great team player.
 <br>Open to any cooperation, suggestions or criticism.</p>
 
